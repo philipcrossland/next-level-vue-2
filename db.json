@@ -267,6 +267,24 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 3359122,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Test",
+      "description": "TEst",
+      "location": "Test",
+      "date": "2021-04-07T13:27:00.000Z",
+      "time": "17:00",
+      "attendees": []
     }
   ]
 }
